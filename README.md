@@ -27,8 +27,9 @@ Este projeto é um sistema CRUD (Create, Read, Update, Delete) desenvolvido util
 - **Banco de Dados**: MySQL
 - **Maven/Gradle**: Gerenciamento de dependências e build do projeto.
 
-Autor
-Este projeto foi desenvolvido por: Gabriel De Martinho Quintela
+## Autor
+- **Este projeto foi desenvolvido por:
+- **Gabriel De Martinho Quintela
 
 ## Como Executar o Projeto
 
