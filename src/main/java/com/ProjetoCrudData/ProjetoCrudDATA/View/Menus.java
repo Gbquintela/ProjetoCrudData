@@ -35,6 +35,7 @@ public class Menus {
     //Tela de Menu do Client
     public void menuClient(){
         System.out.println("""
+                Customer Area
                 1-View
                 0-Exit 
                 """);
