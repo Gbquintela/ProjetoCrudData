@@ -44,6 +44,6 @@ public class CreateEmployee {
         // Salva o novo funcionário no banco de dados
         this.userRepository.save(users);
 
-        System.out.println("Client created!");
+        System.out.println("Employeed created!");
     }
 }
